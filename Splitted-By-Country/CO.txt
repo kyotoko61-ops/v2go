@@ -1,4 +1,2 @@
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@169.150.228.24:8443?allowInsecure=1&sni=bog-co-01.fromblancwithlove.com&alpn=h2&security=tls#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B4%20CO%20%7C%20VLESS%20%7C%2024982
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@bog-co-01.fromblancwithlove.com:8443?allowInsecure=0&alpn=h2&security=tls#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B4%20CO%20%7C%20VLESS%20%7C%2025004
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.172.133:62145?&type=tcp&headerType=none&path=%2F#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B4%20CO%20%7C%20VLESS%20%7C%2043088
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.173:62145?&type=tcp&headerType=none&path=%2F#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B4%20CO%20%7C%20VLESS%20%7C%2043091
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.172.133:62145?&type=tcp&headerType=none&path=%2F#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B4%20CO%20%7C%20VLESS%20%7C%209375
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.173:62145?&type=tcp&headerType=none&path=%2F#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B4%20CO%20%7C%20VLESS%20%7C%209378
