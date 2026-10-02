@@ -1,2 +1,1 @@
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@130.12.47.247:443?host=n4lci.c7ih.ydz.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560&security=tls&sni=n4lci.c7ih.ydz.hh.vavava.kdns.fr&type=ws#v2go%20%7C%20%F0%9F%87%BB%F0%9F%87%AE%20VI%20%7C%20VLESS%20%7C%2035582
-vless://90a3d2f9-04d4-467a-9603-63781354f915@us1server.rabstvo.shop:443?sni=vk.com&alpn=http/1.1&type=grpc&serviceName=grpc&fp=chrome&security=tls#v2go%20%7C%20%F0%9F%87%BB%F0%9F%87%AE%20VI%20%7C%20VLESS%20%7C%2041388
+vless://90a3d2f9-04d4-467a-9603-63781354f915@us1server.rabstvo.shop:443?type=grpc&security=reality&fp=chrome&pbk=k4Lzi9W9WA5DZNWrDfodl_8XCkegl9INee7JWlre1Rk&sid=fcafb151&sni=vk.com&mode=gun&serviceName=grpc&authority=#v2go%20%7C%20%F0%9F%87%BB%F0%9F%87%AE%20VI%20%7C%20VLESS%20%7C%2016896
